@@ -1,3 +1,4 @@
+
 # Social-Distancing-in-Real-Time
 Social distancing in Real-Time using live video stream/IP camera in OpenCV.
 
@@ -7,7 +8,8 @@ Social distancing in Real-Time using live video stream/IP camera in OpenCV.
 
 Output       |  Output
 :-------------------------:|:-------------------------:
-![Output](C:\Users\hp\Downloads\output.gif?raw=true "Output")  |  ![Output](C:\Users\hp\Downloads\output1.gif?raw=true "Output")
+![output1](https://user-images.githubusercontent.com/68817256/126337481-da4bab69-d8a4-4205-a6f9-11bee4e8626a.gif)  |  ![output](https://user-images.githubusercontent.com/68817256/126337721-4269eb2e-f8e2-4565-8958-556ae9f82bde.gif)
+
 
 - Use case: counting the number of people in the stores/buildings/shopping malls etc., in real-time.
 - Sending an alert to the staff if the people are way over the social distancing limits.
